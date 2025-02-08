@@ -1,0 +1,42 @@
+{
+  "last_updated": "2025-02-08T09:07:15.949450",
+  "year": "2025",
+  "states_processed": [
+    {
+      "state": "california",
+      "status": "success",
+      "records": 834,
+      "source_url": "https://edd.ca.gov/siteassets/files/jobs_and_training/warn/warn_report1.xlsx",
+      "columns": [
+        "County/Parish",
+        "Notice\nDate",
+        "Processed\nDate",
+        "Effective \nDate",
+        "Company",
+        "Layoff/\nClosure",
+        "No. Of\nEmployees",
+        "Address",
+        "Related Industry",
+        "state",
+        "download_date"
+      ],
+      "files": {
+        "download": {
+          "path": "warn-data/data/downloads/ca/2025/ca-warn-notice-20250208.xlsx",
+          "size_bytes": 82952
+        },
+        "processed": {
+          "csv": {
+            "path": "warn-data/data/processed/ca/2025/ca-2025-warn-notice.csv",
+            "size_bytes": 177375
+          },
+          "parquet": {
+            "path": "warn-data/data/processed/ca/2025/ca-2025-warn-notice.parquet",
+            "size_bytes": 43125
+          }
+        }
+      },
+      "timestamp": "2025-02-08T09:07:16.344733"
+    }
+  ]
+}
