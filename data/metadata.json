@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-02-19T00:52:27.106239",
+  "last_updated": "2025-02-20T00:52:35.438808",
   "year": "2025",
   "states_processed": [
     {
@@ -24,21 +24,21 @@
       ],
       "files": {
         "download": {
-          "path": "warn-data/data/downloads/ca/2025/ca-warn-notice-20250219.xlsx",
+          "path": "warn-data/data/downloads/ca/2025/ca-warn-notice-20250220.xlsx",
           "size_bytes": 86118
         },
         "processed": {
           "csv": {
             "path": "warn-data/data/processed/ca/2025/ca-2025-warn-notice.csv",
-            "size_bytes": 214499
+            "size_bytes": 214573
           },
           "parquet": {
             "path": "warn-data/data/processed/ca/2025/ca-2025-warn-notice.parquet",
-            "size_bytes": 41172
+            "size_bytes": 41192
           }
         }
       },
-      "timestamp": "2025-02-19T00:54:38.892612"
+      "timestamp": "2025-02-20T00:54:30.474380"
     }
   ]
 }
