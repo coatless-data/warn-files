@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-03-16T00:58:49.723605",
+  "last_updated": "2025-03-17T00:56:48.319249",
   "year": "2025",
   "states_processed": [
     {
@@ -24,7 +24,7 @@
       ],
       "files": {
         "download": {
-          "path": "warn-data/data/downloads/ca/2025/ca-warn-notice-20250316.xlsx",
+          "path": "warn-data/data/downloads/ca/2025/ca-warn-notice-20250317.xlsx",
           "size_bytes": 95217
         },
         "processed": {
@@ -38,7 +38,7 @@
           }
         }
       },
-      "timestamp": "2025-03-16T01:00:56.326778"
+      "timestamp": "2025-03-17T00:58:57.519112"
     }
   ]
 }
