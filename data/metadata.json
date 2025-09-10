@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-09-09T00:58:49.000235",
+  "last_updated": "2025-09-10T00:57:36.735127",
   "year": "2025",
   "states_processed": [
     {
       "state": "california",
       "status": "success",
-      "records": 297,
+      "records": 307,
       "source_url": "https://edd.ca.gov/siteassets/files/jobs_and_training/warn/warn_report1.xlsx",
       "columns": [
         "county_parish",
@@ -24,21 +24,21 @@
       ],
       "files": {
         "download": {
-          "path": "warn-data/data/downloads/ca/2025/ca-warn-notice-20250909.xlsx",
-          "size_bytes": 45891
+          "path": "warn-data/data/downloads/ca/2025/ca-warn-notice-20250910.xlsx",
+          "size_bytes": 46639
         },
         "processed": {
           "csv": {
             "path": "warn-data/data/processed/ca/2025/ca-2025-warn-notice.csv",
-            "size_bytes": 70772
+            "size_bytes": 73039
           },
           "parquet": {
             "path": "warn-data/data/processed/ca/2025/ca-2025-warn-notice.parquet",
-            "size_bytes": 20045
+            "size_bytes": 20524
           }
         }
       },
-      "timestamp": "2025-09-09T00:59:14.357003"
+      "timestamp": "2025-09-10T00:58:11.500368"
     }
   ]
 }
